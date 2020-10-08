@@ -1,3 +1,8 @@
 .ky-classic-simplicity clevertar-chat .ky-bubble-block.ky-user .ky-msg {
-    background-color: #F3C430;
+    background-color: #F3C430 !important;
+}
+
+.ky-classic-simplicity clevertar-chat .ky-bubble-block.ky-user .ky-msg {
+    color: black;
+    border-color: none;
 }
